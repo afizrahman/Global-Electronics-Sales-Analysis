@@ -28,3 +28,5 @@ README.md → Project overview, instructions, and insights.
 
 Objective:
 To demonstrate practical SQL skills, data analysis, and visualization for a retail/e-commerce dataset, producing actionable business insights.
+
+
